@@ -188,8 +188,6 @@
 # result = ''.join([chr(ord(i) + 2) for i in input()])
 # print(result)
 
-from collections import *
-
 
 # data = {'a': 1, 'b': 2, 'c': 3}
 # order_data = OrderedDict(data)
@@ -261,9 +259,9 @@ from collections import *
 
 # a = (4, )
 
-n = 3
-data = {
-    0: {'name': 'Alex', 'email': 'alex@gmail.com'},
-    1: {'name': 'Petya', 'email': 'petya@gmail.com'},
-    2: {'name': 'Masha', 'email': 'masha@gmail.com'}
-}
+# n = 3
+# data = {
+#     0: {'name': 'Alex', 'email': 'alex@gmail.com'},
+#     1: {'name': 'Petya', 'email': 'petya@gmail.com'},
+#     2: {'name': 'Masha', 'email': 'masha@gmail.com'}
+# }
