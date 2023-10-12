@@ -1,13 +1,6 @@
-print('hello world')
-print('hello world')
-print('hello world')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
-print('python')
+def is_palindrome(text: str) -> bool:
+    return text.lower() == text.lower()[::-1]
+
+
+if __name__ == "__main__":
+    print(is_palindrome("hello"))
