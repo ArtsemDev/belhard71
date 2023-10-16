@@ -173,4 +173,3 @@ with Session() as session:
     print(response.headers)
     print(response.cookies)
 # https://catalog.onliner.by/player?player_type%5B0%5D=hifiplayer&player_type%5Boperation%5D=union
-
